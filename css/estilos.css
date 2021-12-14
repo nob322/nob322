@@ -1,0 +1,36 @@
+nav{
+    width: 100%;
+    height: auto;
+    background-color: rgb(10, 151, 116);;
+}
+nav ul{
+    width: 100%;
+    height: 50px;
+}
+nav ul li{
+    display: inline;
+}
+p::first-letter{
+    color: coral;
+    font-size: 20px;
+}
+p::first-line{
+color: darkgreen;
+}
+.tema1:nth-child(1){
+font-size: 18px;
+color: rgb(212, 70, 14);
+}
+/*
+En una caja lo primero que definimos por ser considerado buena 
+práctica es el ancho y el alto, si especificamos uno debemos 
+también especificar el otro aunque sea en valor "auto".
+*/
+
+
+.propiedad2{
+    color: red;
+}
+#propiedad1{
+    color:rgb(23, 100, 223);
+}
