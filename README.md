@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+const Kari = {
+  pronouns: "she" | "her",
+  code: [HTML 5, CSS 3, Javascropt, Php 8, Python 3],
+  tools: [Bootrap 5, Git],
+ 
+}
 <!--
 **nob322/nob322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
