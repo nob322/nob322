@@ -1,6 +1,5 @@
 ### Hello 👋
 const David = {
-  pronouns: "she" | "her",
   code: [HTML 5, CSS 3, Javascropt, Php 8, Python 3], <br>
   tools: [Bootrap 5, Git],
  
