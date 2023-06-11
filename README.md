@@ -1,6 +1,6 @@
 ### Hello 👋
 const David = {
-  code: [HTML 5, CSS 3, Javascript ,Java,  Php 8, Python 3], <br>
+  code: [HTML 5, CSS 3, Javascript ,  Php 8, Python 3, C#], <br>
   tools: [Bootrap 5, Git],
  
 }
